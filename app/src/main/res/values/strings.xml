@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarvelApiClient</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+</resources>
